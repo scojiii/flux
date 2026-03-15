@@ -1,0 +1,13 @@
+urbanwear-store
+│
+├── index.html
+├── cart.html
+├── product.html
+│
+├── css
+│   └── style.css
+│
+└── js
+    ├── products.js
+    ├── cart.js
+    └── main.js
